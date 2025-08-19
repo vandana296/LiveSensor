@@ -1,4 +1,4 @@
-prefix=E:/Snitch Clothing Sales Analysis/venv/Library 
+prefix=E:/SENSORLIVE/venv/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

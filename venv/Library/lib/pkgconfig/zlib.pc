@@ -1,8 +1,8 @@
-prefix=E:/Snitch Clothing Sales Analysis/venv/Library
-exec_prefix=E:/Snitch Clothing Sales Analysis/venv/Library
-libdir=E:/Snitch Clothing Sales Analysis/venv/Library/lib
-sharedlibdir=E:/Snitch Clothing Sales Analysis/venv/Library/lib
-includedir=E:/Snitch Clothing Sales Analysis/venv/Library/include
+prefix=E:/SENSORLIVE/venv/Library
+exec_prefix=E:/SENSORLIVE/venv/Library
+libdir=E:/SENSORLIVE/venv/Library/lib
+sharedlibdir=E:/SENSORLIVE/venv/Library/lib
+includedir=E:/SENSORLIVE/venv/Library/include
 
 Name: zlib
 Description: zlib compression library

@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: 0BSD
 # Author: Lasse Collin
 
-prefix=E:/Snitch Clothing Sales Analysis/venv/Library
+prefix=E:/SENSORLIVE/venv/Library
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
